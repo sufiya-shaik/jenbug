@@ -1,2 +1,6 @@
 To create and detect the bug in the jenkins buger.
 to fetch the code in these jenbug
+
+
+
+to create and pull the code
