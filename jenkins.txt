@@ -1,6 +1,10 @@
 To create and detect the bug in the jenkins buger.
 to fetch the code in these jenbug
 
+<<<<<<< HEAD
 
 
 to create and pull the code
+=======
+to create and fetch the modify these code
+>>>>>>> jan7
